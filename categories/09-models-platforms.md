@@ -7,6 +7,7 @@
 - [Hugging Face](https://huggingface.co) — 全球最大 AI 模型与数据集社区｜免费｜官网
 - [魔搭 ModelScope](https://www.modelscope.cn) — 阿里达摩院模型社区｜免费｜官网
 - [OpenRouter](https://openrouter.ai) — 多模型 API 聚合路由平台｜免费+付费｜官网
+- [Clarity](https://agent-tools.cloud/services/desktop-o99r0sf-tail935fba-ts-net-sub899) — Base x402 AI 研究网关（报告 $2 / 聊天 $0.001 USDC）｜按次付费｜官网
 - [Together AI](https://www.together.ai) — 开源模型云推理平台｜免费+付费｜官网
 - [Replicate](https://replicate.com) — 开源模型 API 部署平台｜免费+付费｜官网
 - [Hugging Face Inference](https://huggingface.co/inference-api) — HF 模型推理 API｜免费+付费｜官网
