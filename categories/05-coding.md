@@ -29,6 +29,7 @@
 - [GitLab Duo](https://about.gitlab.com) — GitLab 内置 AI 开发助手｜付费｜官网
 - [Sourcery](https://sourcery.ai) — Python 代码重构 AI 工具｜免费+付费｜官网
 - [CodeRabbit](https://coderabbit.ai) — AI 代码审查工具｜免费+付费｜官网
+- [Codium AI](https://www.codium.ai) — AI 代码测试与质量分析工具｜免费+付费｜官网
 
 ## 低代码与无代码
 
@@ -59,3 +60,5 @@
 - [Railway](https://railway.app) — 一站式应用部署平台｜免费+付费｜官网
 - [Render](https://render.com) — 云端应用部署平台｜免费+付费｜官网
 - [Fly.io](https://fly.io) — 边缘应用部署平台｜免费+付费｜官网
+- [Snyk](https://snyk.io) — AI 驱动的代码安全扫描工具｜免费+付费｜官网
+- [SonarQube](https://www.sonarsource.com) — 代码质量与安全扫描平台｜免费+付费｜官网
