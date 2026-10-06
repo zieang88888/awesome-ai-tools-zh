@@ -62,3 +62,4 @@
 - [Fly.io](https://fly.io) — 边缘应用部署平台｜免费+付费｜官网
 - [Snyk](https://snyk.io) — AI 驱动的代码安全扫描工具｜免费+付费｜官网
 - [SonarQube](https://www.sonarsource.com) — 代码质量与安全扫描平台｜免费+付费｜官网
+- [Agent QA](https://vostride.com/docs/agent-qa) — YAML 与自然语言步骤测试 Web、Android/iOS，提供 CLI、本地仪表板与本地 MCP｜目前免费（FSL-1.1-ALv2；配置的模型、浏览器或设备服务可能另收费）｜官网
