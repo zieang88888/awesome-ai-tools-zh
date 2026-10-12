@@ -43,6 +43,9 @@
 - [PDF.ai](https://pdf.ai) — PDF 文档 AI 分析工具｜免费+付费｜官网
 - [Humata](https://www.humata.ai) — 文档 AI 问答助手｜免费+付费｜官网
 
+
+- [Aident Loadout](https://aident.ai) — 通过一个 MCP 连接 Codex、Claude Code、Cursor 等 Agent 到 1,000+ 应用与 400+ Skills｜免费+付费｜官网
+
 ## RAG 与向量数据库
 
 - [RAGFlow](https://ragflow.io) — 开源深度文档理解 RAG 引擎｜开源｜官网
