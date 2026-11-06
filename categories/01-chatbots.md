@@ -9,6 +9,7 @@
 - [Gemini](https://gemini.google.com) — Google 出品的多模态对话 AI，集成谷歌生态｜免费+付费｜官网
 - [Microsoft Copilot](https://copilot.microsoft.com) — 微软出品的 AI 助手，集成 GPT 与必应搜索｜免费+付费｜官网
 - [Perplexity](https://www.perplexity.ai) — 带联网搜索的 AI 问答引擎，回答附带来源引用｜免费+付费｜官网
+- [证伪AI / DisconfirmAI](https://disconfirmai.com/zh) — 面向 AI 时代的投资研究与阅读平台，先找可能推翻观点的反面证据｜免费+付费｜官网
 - [Poe](https://poe.com) — Quora 旗下多模型聚合对话平台，一个入口用多个大模型｜免费+付费｜官网
 - [Character.AI](https://character.ai) — 角色扮演型 AI 对话平台，可创建和聊天虚拟角色｜免费+付费｜官网
 - [Pi](https://pi.ai) — Inflection 出品的情感陪伴型对话 AI，语气温和｜免费｜官网
